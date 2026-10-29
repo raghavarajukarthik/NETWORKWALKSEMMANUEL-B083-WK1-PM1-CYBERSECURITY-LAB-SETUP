@@ -26,7 +26,9 @@
 ## 📁 Project Overview
 
 📍 This project focuses on " Building a virtual cybersecurity lab using VirtualBox, Kali Linux, a Nat Network, and a DNS server.
+
 📍 The purpose of this project is " To create a safe, isolated, environment for learning and practicing ethical hacking and network security skills.
+
 📍 Kali Linux acts as the attacker machine, VMs acts as the victims, the NAT Network connects them privately with internet access, and the DNS server lets them        find each other by hostname.
  
 
