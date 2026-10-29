@@ -123,6 +123,9 @@ DHCP:         Enabled
 
 IPv6:         Disabled
 
+![](2-screenshot-network-settings-1.png)
+
+
 A **NAT Network** was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
 
 This will allow future attacker and target VMs to communicate within the lab.
