@@ -119,6 +119,17 @@ This will allow future attacker and target VMs to communicate within the lab.
 
 ---
 
+## Step 4. Import Kali Linux
+
+The Kali Linux virtual machine was downloaded from the official Kali Linux website and imported into VirtualBox.
+
+The VM network adapter was configured as follows:
+
+```text
+Adapter 1
+Attached to: NAT Network
+Network:     NatNetwork
+Adapter Type: Intel PRO/1000 MT Desktop
 
 
 
