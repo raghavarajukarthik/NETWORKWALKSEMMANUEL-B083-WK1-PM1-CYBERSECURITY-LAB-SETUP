@@ -1,5 +1,3 @@
-
-
 <div align="center">
   
 # 🔐 Cybersecurity Lab Environment Setup 
@@ -23,7 +21,7 @@
 
 ---
 
-## 📁 Project Overview
+## 💻 Project Overview
 
  This project focuses on " Building a virtual cybersecurity lab using VirtualBox, Kali Linux, a Nat Network, and a DNS server.
 
@@ -65,3 +63,6 @@ It can be used for activities such as:
 ⚠️ **Important:** This laboratory must only be used for systems that you own or have explicit permission to test. Do not use the lab or its tools to attack unauthorized systems.
 
 ---
+
+## 🧪 Lab Architecture
+
