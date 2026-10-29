@@ -125,18 +125,13 @@ The Kali Linux virtual machine was downloaded from the official Kali Linux websi
 
 The VM network adapter was configured as follows:
 
-```text
+---text
 Adapter 1
 Attached to: NAT Network
 Network:     NatNetwork
 Adapter Type: Intel PRO/1000 MT Desktop
 ---
 
-
-The VM was allocated:
-
-```text
-RAM: 2048 MB
 
 
 
