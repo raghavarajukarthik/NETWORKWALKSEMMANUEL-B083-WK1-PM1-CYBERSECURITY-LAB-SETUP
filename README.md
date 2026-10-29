@@ -46,7 +46,7 @@
 
   ---
 
-  ## 🛡️ Purpose of the Lab
+ ## 🛡️ Purpose of the Lab
 
   The lab provides the isolated, environment for learning and practicing ethical hacking and network security skills.
   
