@@ -257,7 +257,7 @@ This laboratory is intended strictly for education purposes only.
 **RAGHAVARAJU KARTHIK**\
 STUDENT
 
-LinkedIn : [www.linkedin.com/in/raghavarajukarthik/](www.linkedin.com/in/raghavarajukarthik/)
+LinkedIn : [https://www.linkedin.com/in/raghavarajukarthik/](https://www.linkedin.com/in/raghavarajukarthik/)
 
 
 
