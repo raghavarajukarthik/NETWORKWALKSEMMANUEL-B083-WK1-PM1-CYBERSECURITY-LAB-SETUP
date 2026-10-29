@@ -30,6 +30,22 @@
  The purpose of this project is " To create a safe, isolated, environment for learning and practicing ethical hacking and network security skills.
 
  Kali Linux acts as the attacker machine, VMs acts as the victims, the NAT Network connects them privately with internet access, and the DNS server lets them        find each other by hostname.
- 
+
+ ---
+
+ ## 🎯 Objectives
+ The main objectives of this project are to:
+
+- Install and configure VirtualBox.
+- Install/import Kali Linux as a virtual machine.
+- Create a private **NAT Network** for the cybersecurity lab.
+- Configure network connectivity for Kali Linux.
+- Assign a consistent IP address to the Kali VM.
+- Verify network connectivity and DNS resolution.
+- Take a clean VM snapshot for recovery.
+- Document the complete setup process.
+- Prepare the environment for future cybersecurity projects.
+
+  ---
 
   
